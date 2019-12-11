@@ -1,0 +1,3 @@
+# StartxlabsAssignment
+## Technology used : 
+### JavaScript
